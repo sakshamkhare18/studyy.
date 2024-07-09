@@ -1,0 +1,15 @@
+Sanya Nayar Mam
+MSc
+#Chemistry Expert
+
+.ved{
+   
+    margin-top: 7cm;
+    text-align: center;
+    background: transparent;
+    border: 2px white solid;
+    border-radius: 10px;
+    width: 600px;
+    margin-left: 1cm
+  
+}
